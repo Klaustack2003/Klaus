@@ -1,0 +1,13 @@
+openai
+python-dotenv
+SpeechRecognition
+pyttsx3
+pyautogui
+wikipedia
+wolframalpha
+requests
+pywin32
+whisper-timestamped  # For offline speech recognition
+sounddevice
+numpy
+colorama
